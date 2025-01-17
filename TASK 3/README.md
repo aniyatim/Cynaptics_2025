@@ -1,5 +1,7 @@
 # README: Fine-Tuning Falcon-7B-Instruct for Persona-Chat Dataset
 
+This project involves fine-tuning the Falcon-7B-Instruct model on the Persona-Chat dataset. The goal is to adapt the model for generating dialogue responses that align with specific personas, enhancing its conversational abilities.
+
 ## 1. **Choice of LLM**
 
 ### Model: `vilsonrodrigues/falcon-7b-instruct-sharded`
