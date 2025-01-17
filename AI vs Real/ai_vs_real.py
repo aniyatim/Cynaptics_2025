@@ -31,7 +31,6 @@ files.upload()
 from keras.utils import to_categorical
 from keras_preprocessing.image import load_img
 from keras.models import Sequential
-from keras.applications import MobileNetV2, ResNet152, VGG16, EfficientNetB0, InceptionV3
 from keras.layers import Dense, Conv2D, Dropout, Flatten, MaxPooling2D, BatchNormalization, GlobalAveragePooling2D
 import os
 from sklearn.preprocessing import LabelEncoder
